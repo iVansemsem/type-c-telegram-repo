@@ -26,7 +26,6 @@
 
 - [📘 4PDA](https://4pda.to) — русскоязычное сообщество Android-энтузиастов  
 - [🌐 XDA Developers](https://forum.xda-developers.com/) — культовое место для кастомных прошивок  
-- [🐙 Magisk GitHub](https://github.com/topjohnwu/Magisk) — официальный репозиторий Magisk  
 - [📸 TWRP Devices](https://twrp.me/Devices/) — образы TWRP под разные модели
 
 ---
